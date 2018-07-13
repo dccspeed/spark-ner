@@ -15,6 +15,8 @@ import org.apache.spark.sql.types.{ArrayType, StringType, StructField, StructTyp
 import org.apache.spark.sql.{DataFrame, Dataset}
 
 import scala.collection.JavaConversions._
+import scala.collection.mutable.ArrayBuffer
+import scala.runtime.Nothing$
 
 trait NamedEntityRecognitionParams extends Params {
   final val nerTrainPath = new Param[String](this, "nerTrainPath",
@@ -102,14 +104,17 @@ class NamedEntityRecognitionModel(override val uid: String, classifier: CRFClass
 
     val classifierUdf = udf {
       document: String => {
-        val sentences = classifier.classify(document).toSeq
-        val result = sentences.get(0).map { case (tok) =>
-          Seq(
-            tok.get(classOf[CoreAnnotations.AnswerAnnotation]),
-            tok.word()
-          )
+        val sentences = classifier.classify(document)
+
+        val results = sentences.map {(sentence) =>
+            sentence.map { (tok) =>
+              Seq(
+                tok.get(classOf[CoreAnnotations.AnswerAnnotation]),
+                tok.word()
+              )
+            }
         }
-        result
+        results
       }
     }
 
