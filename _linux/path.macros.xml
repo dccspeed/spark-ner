@@ -1,6 +1,0 @@
-<application>
-  <component name="PathMacrosImpl">
-    <macro name="MAVEN_REPOSITORY" value="/home/speed/zilton/.m2/repository" />
-    <macro name="KOTLIN_BUNDLED" value="/scratch/zilton/idea-IC-181.5281.24/plugins/Kotlin/kotlinc" />
-  </component>
-</application>
