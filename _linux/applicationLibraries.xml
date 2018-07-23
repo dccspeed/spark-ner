@@ -1,6 +1,16 @@
 <application>
   <component name="libraryTable">
+    <library name="Python 2.7 (juicer) interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="Python 3.5 interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Python 3.6 interpreter library">
       <CLASSES />
       <JAVADOC />
       <SOURCES />
