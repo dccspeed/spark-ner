@@ -1,5 +1,10 @@
 <application>
   <component name="libraryTable">
+    <library name="Python 2.7 (juicer) interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="Python 2.7 virtualenv at /scratch/zilton/IntelliJProjects/juicer/venv interpreter library">
       <CLASSES />
       <JAVADOC />
