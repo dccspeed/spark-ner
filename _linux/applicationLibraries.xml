@@ -1,10 +1,5 @@
 <application>
   <component name="libraryTable">
-    <library name="Python 2.7 (juicer) interpreter library">
-      <CLASSES />
-      <JAVADOC />
-      <SOURCES />
-    </library>
     <library name="Python 2.7 interpreter library">
       <CLASSES>
         <root url="file:///usr/lib/python2.7" />
@@ -53,11 +48,6 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
       </SOURCES>
-    </library>
-    <library name="Python 2.7 virtualenv at /scratch/zilton/IntelliJProjects/juicer/venv interpreter library">
-      <CLASSES />
-      <JAVADOC />
-      <SOURCES />
     </library>
   </component>
 </application>
