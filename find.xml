@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'juicer'" />
-    <option name="defaultScopeName" value="Project 'juicer'" />
-    <option name="SEARCH_SCOPE" value="Project 'juicer'" />
+    <option name="customScope" value="Project 'pySpark-study'" />
+    <option name="defaultScopeName" value="Project 'pySpark-study'" />
+    <option name="SEARCH_SCOPE" value="Project 'pySpark-study'" />
   </component>
 </application>
