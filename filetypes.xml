@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="estimator.py" type="PLAIN_TEXT" />
+      <mapping ext="tmpl" type="Python" />
     </extensionMap>
   </component>
 </application>
