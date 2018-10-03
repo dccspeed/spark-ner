@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'pySpark-study'" />
-    <option name="defaultScopeName" value="Project 'pySpark-study'" />
-    <option name="SEARCH_SCOPE" value="Project 'pySpark-study'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
