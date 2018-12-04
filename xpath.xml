@@ -1,0 +1,9 @@
+<application>
+  <component name="XPathView.XPathViewPlugin">
+    <option name="SEARCH_SCOPE">
+      <SearchScope scope-name="All Places">
+        <moduleName>tahiti_keras_integration_2</moduleName>
+      </SearchScope>
+    </option>
+  </component>
+</application>
