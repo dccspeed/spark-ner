@@ -101,14 +101,14 @@
     </library>
     <library name="Python 2.7 (lemonade_juicer) interpreter library">
       <CLASSES>
-        <root url="file:///scratch/zilton/IntelliJProjects/lemonade_juicer/venv/lib/python2.7" />
-        <root url="file:///scratch/zilton/IntelliJProjects/lemonade_juicer/venv/lib/python2.7/lib-dynload" />
+        <root url="file:///scratch/zilton/IntelliJProjects/juicers/lemonade_juicer/venv/lib/python2.7" />
+        <root url="file:///scratch/zilton/IntelliJProjects/juicers/lemonade_juicer/venv/lib/python2.7/lib-dynload" />
         <root url="file:///usr/lib/python2.7" />
         <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
         <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///scratch/zilton/IntelliJProjects/lemonade_juicer/venv/local/lib/python2.7/site-packages" />
-        <root url="file:///scratch/zilton/IntelliJProjects/lemonade_juicer/venv/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/.IdeaIC2018.1/system/python_stubs/1877398246" />
+        <root url="file:///scratch/zilton/IntelliJProjects/juicers/lemonade_juicer/venv/local/lib/python2.7/site-packages" />
+        <root url="file:///scratch/zilton/IntelliJProjects/juicers/lemonade_juicer/venv/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2018.1/system/python_stubs/-1019848328" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
@@ -117,14 +117,14 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file:///scratch/zilton/IntelliJProjects/lemonade_juicer/venv/lib/python2.7" />
-        <root url="file:///scratch/zilton/IntelliJProjects/lemonade_juicer/venv/lib/python2.7/lib-dynload" />
+        <root url="file:///scratch/zilton/IntelliJProjects/juicers/lemonade_juicer/venv/lib/python2.7" />
+        <root url="file:///scratch/zilton/IntelliJProjects/juicers/lemonade_juicer/venv/lib/python2.7/lib-dynload" />
         <root url="file:///usr/lib/python2.7" />
         <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
         <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///scratch/zilton/IntelliJProjects/lemonade_juicer/venv/local/lib/python2.7/site-packages" />
-        <root url="file:///scratch/zilton/IntelliJProjects/lemonade_juicer/venv/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/.IdeaIC2018.1/system/python_stubs/1877398246" />
+        <root url="file:///scratch/zilton/IntelliJProjects/juicers/lemonade_juicer/venv/local/lib/python2.7/site-packages" />
+        <root url="file:///scratch/zilton/IntelliJProjects/juicers/lemonade_juicer/venv/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2018.1/system/python_stubs/-1019848328" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
